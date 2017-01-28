@@ -2,5 +2,5 @@
     "appSecret": "07d53b8589f5d30d684daf05c3af8b07",
     "pageAccessToken": "EAAP6isoxa2oBAFoSDZAXmsO50BZB84JZAZBBbNuBHSq0hKUmBqWO7NjYIYohsgBMBgpTXfPeWeUJlaJXys9nO3lxTDMoAYMq8oL1bSErjiCcbXgeJNgbbYWpCaqBy2VmmY2ov2MdQCt6ZCf2ZCyAzBtdsqWvxfhzZBaMyMspXyJwQZDZD",
     "validationToken": "testBot",
-    "serverURL": "http://testnodebot.azurewebsites.net"
+    "serverURL": "https://testbotapp1.azurewebsites.net"
 }
